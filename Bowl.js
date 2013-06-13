@@ -2,7 +2,8 @@ var Bowl = (function(){
 	
 	var Bowl = function(){
 		this.name="bowl";
-	
+		
+		console.log('hello');
 		//this.init.apply( this, arguments);
 		//this.init.apply( this, arguments);
 	};
